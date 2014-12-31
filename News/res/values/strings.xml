@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">苏大新闻</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="release_to_refresh">松开可以刷新</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">%1$s前更新</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+    
+     <string name="p2refresh_doing_end_refresh">加载中&#8230;</string>
+
+    
+</resources>
